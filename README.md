@@ -1,4 +1,4 @@
-# My Resume
+# Semantic
 
 ## Table of Contents
 - [Installation](#installation)
