@@ -1,2 +1,7 @@
-# Semantic
-Lvl 3 Task 12
+# My Resume
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
