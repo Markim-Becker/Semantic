@@ -2,6 +2,10 @@
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
+
+### Installation
+installation is simple , down load the two files and run it on any compatible coding software
+
+### Licence
+Markim Becker
